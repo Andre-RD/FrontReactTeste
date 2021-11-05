@@ -15,6 +15,7 @@ const PromotionCard = ({promotion}) => (
                     {promotion.comments.length}{' '} 
                     {promotion.comments.length > 1 ? 'Comentários': 'Comentário'}</div>
                 <a href={promotion.url} target="_blank" className="promotion-card__link">IR PARA O SITE</a>
+                <a href="http://www.youtube.com.br" target="_blank" className="promotion-card__link">VOCÊ TUDO</a>
             </footer>
         </div>
     </div>
