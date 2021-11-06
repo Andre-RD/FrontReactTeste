@@ -46,3 +46,13 @@
     text-decoration: none;
     padding: 8px 10px;
 }
+
+.promotion-card__link2{
+    border: 1px solid #e70c0c;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 4px 5px;
+    color: #e70c0c;
+    text-shadow: black;
+    margin-left: 10px ;
+}
